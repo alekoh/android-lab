@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab_Intents</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="message">Enter message</string>
+
+    <string name="explicit">Explicit Activity</string>
+    <string name="implicit">Implicit Activity</string>
+    <string name="send">Send Activity</string>
+    <string name="picture">Picture Activity</string>
+</resources>
